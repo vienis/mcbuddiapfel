@@ -17,7 +17,6 @@ int main()
 	MHDR* hdr = (MHDR *)(buffer + 0x14);
 	MH2O* h2o = (MH2O *)(buffer	+ 0x14 + hdr->mh2o + 0x4);
 	MH2O_Info* h2o_info = (MH2O_Info *)(buffer + 0x14 + hdr->mh2o + 0x4 + h2o->Information); 
-	MH2O_HeightmapData* h2o_hd = (MH2O_HeightmapData *)(buffer + 0x14 + hdr->mh2o + 0x4 + h2o->Information + h2o_info->HeightmapData);
 
 	printf("MH2O: \n");
 	printf("Info: \t\t\t\t 0x%x \n", h2o->Information);

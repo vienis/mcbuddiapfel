@@ -1,0 +1,60 @@
+Nogg-It beta for WoW 2.x.x (edited by BEKET) *Beta 1.3
+Game path: D:\World of Warcraft\Data\
+Opening D:\World of Warcraft\Data\patch.MPQ
+Opening D:\World of Warcraft\Data\enUS\Patch-enUS.MPQ
+Error opening archive D:\World of Warcraft\Data\enUS\Patch-enUS.MPQ
+Opening D:\World of Warcraft\Data\enGB\Patch-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\Patch-enGB.MPQ
+Opening D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Opening D:\World of Warcraft\Data\frFR\Patch-frFR.MPQ
+Error opening archive D:\World of Warcraft\Data\frFR\Patch-frFR.MPQ
+Opening D:\World of Warcraft\Data\enCN\Patch-enCN.MPQ
+Error opening archive D:\World of Warcraft\Data\enCN\Patch-enCN.MPQ
+Opening D:\World of Warcraft\Data\zhCN\Patch-zhCN.MPQ
+Error opening archive D:\World of Warcraft\Data\zhCN\Patch-zhCN.MPQ
+Opening D:\World of Warcraft\Data\enFR\Patch-enFR.MPQ
+Error opening archive D:\World of Warcraft\Data\enFR\Patch-enFR.MPQ
+Opening D:\World of Warcraft\Data\common-2.MPQ
+Opening D:\World of Warcraft\Data\lichking.mpq
+Opening D:\World of Warcraft\Data\common.MPQ
+Opening D:\World of Warcraft\Data\expansion.MPQ
+Opening D:\World of Warcraft\Data\enUS\locale-enUS.MPQ
+Error opening archive D:\World of Warcraft\Data\enUS\locale-enUS.MPQ
+Opening D:\World of Warcraft\Data\enUS\expansion-locale-enUS.MPQ
+Error opening archive D:\World of Warcraft\Data\enUS\expansion-locale-enUS.MPQ
+Opening D:\World of Warcraft\Data\enGB\lichking-locale-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\lichking-locale-enGB.MPQ
+Opening D:\World of Warcraft\Data\enGB\locale-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\locale-enGB.MPQ
+Opening D:\World of Warcraft\Data\enGB\expansion-locale-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\expansion-locale-enGB.MPQ
+Opening D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Opening DBC DBFilesClient\AreaTable.dbc
+Attempting to Load File DBFilesClient\AreaTable.dbc
+File DBFilesClient\AreaTable.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\AreaTable.dbc
+Initializing Ground Effects
+Opening DBC DBFilesClient\GroundEffectTexture.dbc
+Attempting to Load File DBFilesClient\GroundEffectTexture.dbc
+File DBFilesClient\GroundEffectTexture.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\GroundEffectTexture.dbc
+Opening DBC DBFilesClient\GroundEffectDoodad.dbc
+Attempting to Load File DBFilesClient\GroundEffectDoodad.dbc
+File DBFilesClient\GroundEffectDoodad.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\GroundEffectDoodad.dbc
+Initializing Fonts
+Attempting to Load File fonts\MORPHEUS.TTF
+File fonts\MORPHEUS.TTF found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Attempting to Load File fonts\arialn.TTF
+File fonts\arialn.TTF found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Creating Menu
+Opening DBC DBFilesClient\Map.dbc
+Attempting to Load File DBFilesClient\Map.dbc
+File DBFilesClient\Map.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\Map.dbc
+Attempting to Load File Interface\Glues\Models\UI_Orc\UI_Orc.m2
+File Interface\Glues\Models\UI_Orc\UI_Orc.m2 found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+    Loading model from MPQ Interface\Glues\Models\UI_Orc\UI_Orc.m2 (animated)
+Attempting to Load File 
+Unable to find file 
+      Loading Texture from MPQ 

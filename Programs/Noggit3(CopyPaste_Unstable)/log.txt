@@ -1,0 +1,88 @@
+.\wowmapview.cpp:154 > Nogg-It $Rev: 104 $
+.\wowmapview.cpp:264 > Game path: D:\World of Warcraft\Data\
+.\wowmapview.cpp:266 > Project path: D:\World of Warcraft\
+.\wowmapview.cpp:304 > Locale: deDE
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\common.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\common-2.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\expansion.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\lichking.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\patch.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\patch-2.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\patch-3.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\patch-f.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\deDE\expansion-locale-deDE.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\deDE\lichking-locale-deDE.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\deDE\patch-deDE.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\deDE\patch-deDE-2.MPQ
+.\mpq_libmpq.cpp:27 > Opening D:\World of Warcraft\Data\deDE\patch-deDE-3.MPQ
+.\wowmapview.cpp:362 > main: mpqs: 587 ms
+.\wowmapview.cpp:398 > main: directory: 985 ms
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\AreaTable.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\Map.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\LoadingScreens.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\Light.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\LightParams.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\LightSkybox.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\LightIntBand.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\LightFloatBand.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\GroundEffectDoodad.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\GroundEffectTexture.dbc
+.\dbcfile.cpp:13 > Opening DBC DBFilesClient\LiquidType.dbc
+.\wowmapview.cpp:429 > Creating Menu
+.\world.cpp:42 > World 451: development has no WDT file!
+.\world.cpp:42 > World 582: Transport176244 has no WDT file!
+.\world.cpp:42 > World 584: Transport176231 has no WDT file!
+.\world.cpp:42 > World 586: Transport181645 has no WDT file!
+.\world.cpp:42 > World 587: Transport177233 has no WDT file!
+.\world.cpp:42 > World 588: Transport176310 has no WDT file!
+.\world.cpp:42 > World 589: Transport175080 has no WDT file!
+.\world.cpp:42 > World 590: Transport176495 has no WDT file!
+.\world.cpp:42 > World 591: Transport164871 has no WDT file!
+.\world.cpp:42 > World 592: Transport186238 has no WDT file!
+.\world.cpp:42 > World 593: Transport20808 has no WDT file!
+.\world.cpp:42 > World 594: Transport187038 has no WDT file!
+.\world.cpp:42 > World 596: Transport187263 has no WDT file!
+.\world.cpp:42 > World 610: Transport_Tirisfal _Vengeance_Landing has no WDT file!
+.\world.cpp:42 > World 612: Transport_Menethil_Valgarde has no WDT file!
+.\world.cpp:42 > World 613: Transport_Orgrimmar_Warsong_Hold has no WDT file!
+.\world.cpp:42 > World 614: Transport_Stormwind_Valiance_Keep has no WDT file!
+.\world.cpp:42 > World 620: Transport_Moa'ki_Unu'pe has no WDT file!
+.\world.cpp:42 > World 621: Transport_Moa'ki_Kamagua has no WDT file!
+.\world.cpp:42 > World 622: Transport192241 has no WDT file!
+.\world.cpp:42 > World 623: Transport192242 has no WDT file!
+.\world.cpp:42 > World 641: Transport_AllianceAirshipBG has no WDT file!
+.\world.cpp:42 > World 642: Transport_HordeAirshipBG has no WDT file!
+.\world.cpp:42 > World 647: Transport_Orgrimmar_to_Thunderbluff has no WDT file!
+.\world.cpp:42 > World 672: Transport197347 has no WDT file!
+.\world.cpp:42 > World 673: Transport197348 has no WDT file!
+.\world.cpp:42 > World 712: Transport197349 has no WDT file!
+.\world.cpp:42 > World 713: Transport197350 has no WDT file!
+.\world.cpp:42 > World 718: Transport201834 has no WDT file!
+.\model.cpp:85 > Loading model "interface\glues\models\ui_dwarf\ui_dwarf.m2".
+.\wowmapview.cpp:435 > main: created menu: 349 ms
+.\liquid.cpp:486 > Water Shader Loaded successfully
+.\liquid.cpp:531 > Water Shader Loaded successfully
+.\wowmapview.cpp:444 > main: start-up: 2515 ms
+.\wowmapview.cpp:448 > Entering Main Loop
+.\world.cpp:80 > Loading world QA_DVD
+.\menu.cpp:327 > Did not find matching loading screen. Check map.dbc for the entry please.
+.\model.cpp:85 > Loading model "environments\stars\stars.m2".
+.\mpq_libmpq.cpp:95 > I opened the file D:\World of Warcraft\\World\Maps\QA_DVD\QA_DVD_30_26.adt from the disk!
+.\maptile.cpp:242 >   Loading tile from File 30,26
+.\maptile.cpp:475 > Finished Processing all but MCNK's in .\world.cpp:1278 > 1 ms
+.\maptile.cpp:491 > Entire loading of World\Maps\QA_DVD\QA_DVD_30_26.adt took .\world.cpp:1278 > 2 ms
+.\maptile.cpp:549 > Finished Loading Textures for World\Maps\QA_DVD\QA_DVD_30_26.adt
+.\maptile.cpp:711 > finishLoading(textures) took 10 ms.
+.\maptile.cpp:715 > finishLoading(chunks) took 32 ms.
+.\model.cpp:85 > Loading model "world\kalimdor\durotar\passivedoodads\rocks\durotarcliffrock01.m2".
+.\maptile.cpp:589 > Finished Loading Models for World\Maps\QA_DVD\QA_DVD_30_26.adt
+.\maptile.cpp:240 >   Loading tile from MPQ 31,26
+.\maptile.cpp:475 > Finished Processing all but MCNK's in .\world.cpp:1278 > 0 ms
+.\maptile.cpp:491 > Entire loading of World\Maps\QA_DVD\QA_DVD_31_26.adt took .\world.cpp:1278 > 3 ms
+.\maptile.cpp:711 > finishLoading(textures) took 0 ms.
+.\maptile.cpp:715 > finishLoading(chunks) took 30 ms.
+.\MapView.cpp:490 > MapView::MapView: main gui: 5 ms
+.\MapView.cpp:503 > MapView::MapView: tileset: 30 ms
+.\MapView.cpp:555 > MapView::MapView: menu: 1 ms
+.\MapView.cpp:559 > MapView::MapView: 39 ms

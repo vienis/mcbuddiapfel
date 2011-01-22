@@ -1,0 +1,276 @@
+Nogg-It beta for WoW 2.x.x (edited by BEKET) (v 1.4 pre Alpha) *pre Alpha 1.4
+Game path: D:\World of Warcraft\Data\
+Opening D:\World of Warcraft\Data\patch.MPQ
+Opening D:\World of Warcraft\Data\enUS\Patch-enUS.MPQ
+Error opening archive D:\World of Warcraft\Data\enUS\Patch-enUS.MPQ
+Opening D:\World of Warcraft\Data\enGB\Patch-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\Patch-enGB.MPQ
+Opening D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Opening D:\World of Warcraft\Data\frFR\Patch-frFR.MPQ
+Error opening archive D:\World of Warcraft\Data\frFR\Patch-frFR.MPQ
+Opening D:\World of Warcraft\Data\common-2.MPQ
+Error opening archive D:\World of Warcraft\Data\common-2.MPQ
+Opening D:\World of Warcraft\Data\lichking.mpq
+Error opening archive D:\World of Warcraft\Data\lichking.mpq
+Opening D:\World of Warcraft\Data\common.MPQ
+Opening D:\World of Warcraft\Data\expansion.MPQ
+Error opening archive D:\World of Warcraft\Data\expansion.MPQ
+Opening D:\World of Warcraft\Data\enUS\locale-enUS.MPQ
+Error opening archive D:\World of Warcraft\Data\enUS\locale-enUS.MPQ
+Opening D:\World of Warcraft\Data\enUS\expansion-locale-enUS.MPQ
+Error opening archive D:\World of Warcraft\Data\enUS\expansion-locale-enUS.MPQ
+Opening D:\World of Warcraft\Data\enGB\lichking-locale-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\lichking-locale-enGB.MPQ
+Opening D:\World of Warcraft\Data\enGB\locale-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\locale-enGB.MPQ
+Opening D:\World of Warcraft\Data\enGB\expansion-locale-enGB.MPQ
+Error opening archive D:\World of Warcraft\Data\enGB\expansion-locale-enGB.MPQ
+Opening D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Opening DBC DBFilesClient\AreaTable.dbc
+Attempting to Load File DBFilesClient\AreaTable.dbc
+File DBFilesClient\AreaTable.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\AreaTable.dbc
+Initializing Ground Effects
+Opening DBC DBFilesClient\GroundEffectTexture.dbc
+Attempting to Load File DBFilesClient\GroundEffectTexture.dbc
+File DBFilesClient\GroundEffectTexture.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\GroundEffectTexture.dbc
+Opening DBC DBFilesClient\GroundEffectDoodad.dbc
+Attempting to Load File DBFilesClient\GroundEffectDoodad.dbc
+File DBFilesClient\GroundEffectDoodad.dbc found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Closed & Read in DBC DBFilesClient\GroundEffectDoodad.dbc
+Initializing Fonts
+Attempting to Load File fonts\MORPHEUS.TTF
+File fonts\MORPHEUS.TTF found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Attempting to Load File fonts\arialn.TTF
+File fonts\arialn.TTF found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+Creating Menu
+Opening DBC DBFilesClient\Map.dbc
+Attempting to Load File DBFilesClient\Map.dbc
+File DBFilesClient\Map.dbc found inside D:\World of Warcraft\Data\deDE\Patch-deDE.MPQ
+Closed & Read in DBC DBFilesClient\Map.dbc
+Attempting to Load File Interface\Glues\Models\UI_NightElf\UI_NightElf.m2
+File Interface\Glues\Models\UI_NightElf\UI_NightElf.m2 found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+    Loading model from MPQ Interface\Glues\Models\UI_NightElf\UI_NightElf.m2 (animated)
+Attempting to Load File dungeons\textures\trees\kalidartree_fatleaf_purple.blp
+File dungeons\textures\trees\kalidartree_fatleaf_purple.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\trees\kalidartree_fatleaf_purple.blp
+Attempting to Load File interface\glues\models\ui_nightelf\kalidarmidtree_purple01.blp
+File interface\glues\models\ui_nightelf\kalidarmidtree_purple01.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\kalidarmidtree_purple01.blp
+Attempting to Load File dungeons\textures\trim\mm_ne_trim_02.blp
+File dungeons\textures\trim\mm_ne_trim_02.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\trim\mm_ne_trim_02.blp
+Attempting to Load File dungeons\textures\trim\mm_ne_trim_03.blp
+File dungeons\textures\trim\mm_ne_trim_03.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\trim\mm_ne_trim_03.blp
+Attempting to Load File dungeons\textures\floor\mm_ne_floor_01.blp
+File dungeons\textures\floor\mm_ne_floor_01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\floor\mm_ne_floor_01.blp
+Attempting to Load File dungeons\textures\trees\kalidargianttreetrunk02.blp
+File dungeons\textures\trees\kalidargianttreetrunk02.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\trees\kalidargianttreetrunk02.blp
+Attempting to Load File dungeons\textures\floor\mm_ne_treerings_01.blp
+File dungeons\textures\floor\mm_ne_treerings_01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\floor\mm_ne_treerings_01.blp
+Attempting to Load File dungeons\textures\doodads\elfgate\elfgate_wood01.blp
+File dungeons\textures\doodads\elfgate\elfgate_wood01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\doodads\elfgate\elfgate_wood01.blp
+Attempting to Load File dungeons\textures\rock\mm_ne_stone_01.blp
+File dungeons\textures\rock\mm_ne_stone_01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\rock\mm_ne_stone_01.blp
+Attempting to Load File interface\glues\models\ui_nightelf\caustic01.blp
+File interface\glues\models\ui_nightelf\caustic01.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\caustic01.blp
+Attempting to Load File interface\glues\models\ui_nightelf\genericglow2_32.blp
+File interface\glues\models\ui_nightelf\genericglow2_32.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\genericglow2_32.blp
+Attempting to Load File interface\glues\models\ui_nightelf\aa_moonwell_glow.blp
+File interface\glues\models\ui_nightelf\aa_moonwell_glow.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\aa_moonwell_glow.blp
+Attempting to Load File world\kalimdor\kalidar\passivedoodads\kalidarbushes\kalidarbush_01.blp
+File world\kalimdor\kalidar\passivedoodads\kalidarbushes\kalidarbush_01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ world\kalimdor\kalidar\passivedoodads\kalidarbushes\kalidarbush_01.blp
+Attempting to Load File interface\glues\models\ui_nightelf\aa_ne_sky.blp
+File interface\glues\models\ui_nightelf\aa_ne_sky.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\aa_ne_sky.blp
+Attempting to Load File interface\glues\models\ui_nightelf\aa_ne_clouds.blp
+File interface\glues\models\ui_nightelf\aa_ne_clouds.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\aa_ne_clouds.blp
+Attempting to Load File world\kalimdor\kalidar\passivedoodads\kalidarbushes\kalidarshrub01.blp
+File world\kalimdor\kalidar\passivedoodads\kalidarbushes\kalidarshrub01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ world\kalimdor\kalidar\passivedoodads\kalidarbushes\kalidarshrub01.blp
+Attempting to Load File interface\glues\models\ui_nightelf\aa_treewall.blp
+File interface\glues\models\ui_nightelf\aa_treewall.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\aa_treewall.blp
+Attempting to Load File interface\glues\models\ui_human\gradient5circle.blp
+File interface\glues\models\ui_human\gradient5circle.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_human\gradient5circle.blp
+Attempting to Load File interface\glues\models\ui_nightelf\aa_grass3.blp
+File interface\glues\models\ui_nightelf\aa_grass3.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\aa_grass3.blp
+Attempting to Load File interface\glues\models\ui_nightelf\causticblend.blp
+File interface\glues\models\ui_nightelf\causticblend.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\causticblend.blp
+Attempting to Load File world\kalimdor\kalidar\passivedoodads\oracletree\wisp.blp
+File world\kalimdor\kalidar\passivedoodads\oracletree\wisp.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ world\kalimdor\kalidar\passivedoodads\oracletree\wisp.blp
+Attempting to Load File interface\glues\models\ui_nightelf\aa_ne_ground.blp
+File interface\glues\models\ui_nightelf\aa_ne_ground.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_nightelf\aa_ne_ground.blp
+Attempting to Load File particles\dust3x.blp
+File particles\dust3x.blp found inside D:\World of Warcraft\Data\patch.MPQ
+      Loading Texture from MPQ particles\dust3x.blp
+Water Shader Loaded successfully
+Water Shader Loaded successfully
+Entering Main Loop
+
+Loading world HellfireMilitary
+Attempting to Load File World\Maps\HellfireMilitary\HellfireMilitary.wdt
+Unable to find file World\Maps\HellfireMilitary\HellfireMilitary.wdt
+Unloaded world HellfireMilitary
+
+Loading world HyjalPast
+Attempting to Load File World\Maps\HyjalPast\HyjalPast.wdt
+Unable to find file World\Maps\HyjalPast\HyjalPast.wdt
+Attempting to Load File xtextures\river\lake_c.10.blp
+File xtextures\river\lake_c.10.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ xtextures\river\lake_c.10.blp
+Attempting to Load File World\Maps\HyjalPast\lights.lit
+Unable to find file World\Maps\HyjalPast\lights.lit
+Attempting to Load File World\Maps\Kalimdor\lights.lit
+File World\Maps\Kalimdor\lights.lit found inside D:\World of Warcraft\Data\common.MPQ
+Attempting to Load File Environments\Stars\Stars.m2
+File Environments\Stars\Stars.m2 found inside D:\World of Warcraft\Data\common.MPQ
+    Loading model from MPQ Environments\Stars\Stars.m2 (animated)
+Attempting to Load File environments\stars\stars.blp
+File environments\stars\stars.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ environments\stars\stars.blp
+Attempting to Load File environments\stars\stars2.blp
+File environments\stars\stars2.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ environments\stars\stars2.blp
+Attempting to Load File World\dnc.db
+File World\dnc.db found inside D:\World of Warcraft\Data\common.MPQ
+Attempting to Load File World\Maps\HyjalPast\HyjalPast.wdl
+Unable to find file World\Maps\HyjalPast\HyjalPast.wdl
+Attempting to Load File interface\tooltips\ui-tooltip-border.blp
+File interface\tooltips\ui-tooltip-border.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\tooltips\ui-tooltip-border.blp
+Attempting to Load File interface\buttons\ui-sliderbar-border.blp
+File interface\buttons\ui-sliderbar-border.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-sliderbar-border.blp
+Attempting to Load File interface\buttons\ui-sliderbar-button-horizontal.blp
+File interface\buttons\ui-sliderbar-button-horizontal.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-sliderbar-button-horizontal.blp
+Attempting to Load File interface\buttons\ui-minusbutton-down.blp
+File interface\buttons\ui-minusbutton-down.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-minusbutton-down.blp
+Attempting to Load File interface\buttons\ui-minusbutton-up.blp
+File interface\buttons\ui-minusbutton-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-minusbutton-up.blp
+Attempting to Load File interface\buttons\ui-plusbutton-down.blp
+File interface\buttons\ui-plusbutton-down.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-plusbutton-down.blp
+Attempting to Load File interface\buttons\ui-plusbutton-up.blp
+File interface\buttons\ui-plusbutton-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-plusbutton-up.blp
+Attempting to Load File tileset\generic\black.blp
+File tileset\generic\black.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ tileset\generic\black.blp
+Attempting to Load File interface\buttons\ui-spellbookicon-nextpage-down.blp
+File interface\buttons\ui-spellbookicon-nextpage-down.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-spellbookicon-nextpage-down.blp
+Attempting to Load File interface\buttons\ui-spellbookicon-nextpage-up.blp
+File interface\buttons\ui-spellbookicon-nextpage-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-spellbookicon-nextpage-up.blp
+Attempting to Load File interface\buttons\ui-spellbookicon-prevpage-down.blp
+File interface\buttons\ui-spellbookicon-prevpage-down.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-spellbookicon-prevpage-down.blp
+Attempting to Load File interface\buttons\ui-spellbookicon-prevpage-up.blp
+File interface\buttons\ui-spellbookicon-prevpage-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-spellbookicon-prevpage-up.blp
+Attempting to Load File interface\buttons\ui-dialogbox-button-down.blp
+File interface\buttons\ui-dialogbox-button-down.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-dialogbox-button-down.blp
+Attempting to Load File interface\buttons\ui-dialogbox-button-up.blp
+File interface\buttons\ui-dialogbox-button-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-dialogbox-button-up.blp
+Attempting to Load File interface\buttons\ui-panel-minimizebutton-down.blp
+File interface\buttons\ui-panel-minimizebutton-down.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-panel-minimizebutton-down.blp
+Attempting to Load File interface\buttons\ui-panel-minimizebutton-up.blp
+File interface\buttons\ui-panel-minimizebutton-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-panel-minimizebutton-up.blp
+Attempting to Load File interface\buttons\ui-checkbox-up.blp
+File interface\buttons\ui-checkbox-up.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-checkbox-up.blp
+Attempting to Load File interface\buttons\ui-checkbox-check.blp
+File interface\buttons\ui-checkbox-check.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\buttons\ui-checkbox-check.blp
+Unloading model Interface\Glues\Models\UI_NightElf\UI_NightElf.mdx
+Unloading model Environments\Stars\Stars.mdx
+Unloaded world HyjalPast
+Attempting to Load File Interface\Glues\Models\UI_Tauren\UI_Tauren.m2
+File Interface\Glues\Models\UI_Tauren\UI_Tauren.m2 found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+    Loading model from MPQ Interface\Glues\Models\UI_Tauren\UI_Tauren.m2 (animated)
+Attempting to Load File interface\glues\models\ui_tauren\ground2.blp
+File interface\glues\models\ui_tauren\ground2.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\ground2.blp
+Attempting to Load File interface\glues\models\ui_tauren\grass06.blp
+File interface\glues\models\ui_tauren\grass06.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\grass06.blp
+Attempting to Load File interface\glues\models\ui_tauren\westfallgrassbaseblurred.blp
+File interface\glues\models\ui_tauren\westfallgrassbaseblurred.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\westfallgrassbaseblurred.blp
+Attempting to Load File interface\glues\models\ui_tauren\sky1.blp
+File interface\glues\models\ui_tauren\sky1.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\sky1.blp
+Attempting to Load File dungeons\textures\wood\bm_thunder_logs_01.blp
+File dungeons\textures\wood\bm_thunder_logs_01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\wood\bm_thunder_logs_01.blp
+Attempting to Load File dungeons\textures\walls\bm_thunder_wall_03.blp
+File dungeons\textures\walls\bm_thunder_wall_03.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\walls\bm_thunder_wall_03.blp
+Attempting to Load File dungeons\textures\walls\bm_thunder_wall_02.blp
+File dungeons\textures\walls\bm_thunder_wall_02.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\walls\bm_thunder_wall_02.blp
+Attempting to Load File dungeons\textures\roof\bm_thunder_roof_02.blp
+File dungeons\textures\roof\bm_thunder_roof_02.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\roof\bm_thunder_roof_02.blp
+Attempting to Load File dungeons\textures\roof\bm_thunder_roof_01.blp
+File dungeons\textures\roof\bm_thunder_roof_01.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\roof\bm_thunder_roof_01.blp
+Attempting to Load File dungeons\textures\walls\bm_thunder_wall_04.blp
+File dungeons\textures\walls\bm_thunder_wall_04.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\walls\bm_thunder_wall_04.blp
+Attempting to Load File dungeons\textures\walls\bm_thunder_wall_05.blp
+File dungeons\textures\walls\bm_thunder_wall_05.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\walls\bm_thunder_wall_05.blp
+Attempting to Load File dungeons\textures\trim\bm_thunder_eaglecow.blp
+File dungeons\textures\trim\bm_thunder_eaglecow.blp found inside D:\World of Warcraft\Data\common.MPQ
+      Loading Texture from MPQ dungeons\textures\trim\bm_thunder_eaglecow.blp
+Attempting to Load File interface\glues\models\ui_tauren\rock.blp
+File interface\glues\models\ui_tauren\rock.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\rock.blp
+Attempting to Load File interface\glues\models\ui_tauren\groundshadow.blp
+File interface\glues\models\ui_tauren\groundshadow.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\groundshadow.blp
+Attempting to Load File interface\glues\models\ui_tauren\clouds.blp
+File interface\glues\models\ui_tauren\clouds.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\clouds.blp
+Attempting to Load File spells\smoketoon01.blp
+File spells\smoketoon01.blp found inside D:\World of Warcraft\Data\patch.MPQ
+      Loading Texture from MPQ spells\smoketoon01.blp
+Attempting to Load File interface\glues\models\ui_tauren\lensalpha.blp
+File interface\glues\models\ui_tauren\lensalpha.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\lensalpha.blp
+Attempting to Load File interface\glues\models\ui_tauren\gradientcircle.blp
+File interface\glues\models\ui_tauren\gradientcircle.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_tauren\gradientcircle.blp
+Attempting to Load File interface\glues\models\ui_human\gradient5circle.blp
+File interface\glues\models\ui_human\gradient5circle.blp found inside D:\World of Warcraft\Data\deDE\locale-deDE.MPQ
+      Loading Texture from MPQ interface\glues\models\ui_human\gradient5circle.blp
+Unloading model Interface\Glues\Models\UI_Tauren\UI_Tauren.mdx
+Exited Main Loop
+
+Exiting.

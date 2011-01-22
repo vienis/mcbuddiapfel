@@ -1,0 +1,5 @@
+J:\Users\Euan\Documents\Visual Studio 2008\Projects\DBC Editor\obj\Debug\ResolveAssemblyReference.cache
+J:\Users\Euan\Documents\Visual Studio 2008\Projects\DBC Editor\bin\Debug\CSDBCReader.dll
+J:\Users\Euan\Documents\Visual Studio 2008\Projects\DBC Editor\bin\Debug\CSDBCReader.pdb
+J:\Users\Euan\Documents\Visual Studio 2008\Projects\DBC Editor\obj\Debug\CSDBCReader.dll
+J:\Users\Euan\Documents\Visual Studio 2008\Projects\DBC Editor\obj\Debug\CSDBCReader.pdb

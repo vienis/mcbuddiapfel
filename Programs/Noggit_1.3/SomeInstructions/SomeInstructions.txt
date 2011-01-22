@@ -1,0 +1,61 @@
+I give you some instrctions:
+
+W,A,S,D - Moving
+Q,E     - Up/Down
+M       - Map
+U       - Tile mode, you can paind groun and work with chunks.
+C       - Open MapChunkSettings window (must be mapchunk selected)
+Z       - Texture replace. Select any mapchunk and go to Tile mode (C or U). You can select any texture 
+          from MapChunkSettings window then select any texture from TexturePalette window and then go back to 3D mode
+          (press U again) and select any mapchunk. Then press Z to replace texture.
+T       - Change terrain changing mode (raise/lower, flatten/blur)
+Y       - Change brush type (smooth, linear, flat)
+I       - Invert mouse
+O,P     - Slower/Faster movements
+B,N     - Slower/Faster time
+0-9     - Change WMO doodads set (must be WMO selected)
+J       - Reload ADT file
+K       - SAVE Adt file
+
+Terrain mode - raise/lower
+ Left Click + Shift - Raise terrain
+ Left Click + Alt   - Lower terrain
+
+Terrain mode - flatten/blur
+ Left Click + Shift - Flatten terrain
+ Left Click + Alt   - Blur terrain
+
+Mouse1   - Select object
+Mouse2   - Camera rotation
+Mouse3   - Move selected object
+
+Alt + Mouse1 - Change brush radius
+
+F1       - Toggle models
+F2       - Toggle doodads 
+F3	 - Toggle terrain
+F4       - Toggle information
+F5	 - Save place to bookmark
+F6	 - Toggle WMO
+F7	 - Toggle chunk lines
+F8	 - Toggle object info
+
+Shift + F4 - Advanced selecting
+
+Ctrl + Mouse1 - When in tile mode it delete all chunk textures (4 textures per chunk maximum)
+
+Esc      - EXIT
+
+Pressing K will save only ADT file where are you situated! So if you change more than one ADT fly to them and press K to save.
+All saved files are in (wow directory)\World\Maps directory. You must make patch-6.MPQ file (as example) and save ADT's here with
+three patch (Example: World\Maps\Kalimdor\Kalimdor_1_1.adt).
+Also you must use modeleditfix to enter WoW without errors.
+
+Maybe at next releases all will be more simply!
+
+If your program dont startup try to extract files from Fonts.rar to your WoW directory!
+Example D:\WoW\Fonts
+
+Enjoy =)
+
+
